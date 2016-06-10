@@ -1,0 +1,17 @@
+package cl.curso.java.herencia;
+
+public class Humano extends Mamifero {
+
+	public Humano()
+	{
+		super.setCantidadPatas(2);
+	}
+	
+	public Humano(int cantidadPatas, int mesesGestacion) {
+		super(cantidadPatas, mesesGestacion);
+		
+	}
+
+	
+	
+}

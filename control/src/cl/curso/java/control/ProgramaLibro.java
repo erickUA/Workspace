@@ -1,0 +1,16 @@
+package cl.curso.java.control;
+
+import javax.swing.JOptionPane;
+
+public class ProgramaLibro {
+
+	public static void main(String[] args) {
+		Biblioteca b1 = new Biblioteca("hhh","erick",5,2);
+		b1.imprimir();
+		
+		
+		
+
+	}
+
+}

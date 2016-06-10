@@ -1,0 +1,26 @@
+package cl.curso.java.banco;
+
+import cl.curso.java.tarjetaBip.Pagable;
+
+public class CajeroAutomatico {
+
+	public void retirarDinero(CuentaBancaria cuentaBancaria, int monto)
+	{
+		if( cuentaBancaria instanceof CuentaVista)
+		{
+			CuentaVista cv = (CuentaVista)cuentaBancaria;
+			((CuentaVista)cuentaBancaria).imprrmirFormate();
+			System.out.println("La cuenta bancaria es instancia de cuenta vista");
+		}
+		if( cuentaBancaria instanceof CuentaCorriente)
+		{
+			System.out.println("La cuenta bancaria es instancia de cuenta corriente");
+		}
+		cuentaBancaria.girar(monto);
+	}
+	
+	public void pagar(Pagable pagable)
+	{
+		pagable.pagar(2000);
+	}
+}

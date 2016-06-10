@@ -1,0 +1,56 @@
+package cl.curso.java.herencia;
+
+public class Alumno extends Persona {
+
+	private int[] notas;
+
+	
+	
+	/**
+	 * 
+	 */
+	public Alumno() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param nombre
+	 * @param rut
+	 * @param apellidoPaterno
+	 * @param apellidoMaterno
+	 */
+	public Alumno(String nombre, String rut, String apellidoPaterno, String apellidoMaterno, int[] notas) {
+		super(nombre, rut, apellidoPaterno, apellidoMaterno);
+		this.notas = notas;
+	}
+
+	/**
+	 * @return the notas
+	 */
+	public int[] getNotas() {
+		return notas;
+	}
+
+	/**
+	 * @param notas the notas to set
+	 */
+	public void setNotas(int[] notas) {
+		this.notas = notas;
+	}
+	
+	public void irAClases()
+	{
+		super.irAClases();
+		System.out.println("Alumno ir a clases.");
+	}
+
+	/* (non-Javadoc)
+	 * @see java.lang.Object#toString()
+	 */
+	@Override
+	public String toString() {
+		return "Alumno\\n notas = " + notas + " ";
+	}
+	
+}

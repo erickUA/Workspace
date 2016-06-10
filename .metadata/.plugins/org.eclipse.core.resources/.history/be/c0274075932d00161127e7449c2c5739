@@ -1,0 +1,10 @@
+package cl.curso.java.login_app;
+
+public class Snippet {
+	   Webcam webcam = Webcam.getDefault();
+	        webcam.setViewSize(WebcamResolution.VGA.getSize());
+	        webcam.open();
+	        ImageIO.write(webcam.getImage(), "PNG" , 
+	        		new File("/Users/erick/"+ new Date().getTime() + ".png"));
+}
+

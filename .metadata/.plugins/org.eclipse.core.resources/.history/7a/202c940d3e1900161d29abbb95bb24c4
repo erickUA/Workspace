@@ -1,0 +1,17 @@
+package cl.curso.java.herencia;
+
+public class ProgramaHerencia {
+
+	public static void main(String[] args) {
+
+		Gato gato = new Gato(4, 2, "lulo");
+		
+		System.out.println(gato.getCantidadPatas());
+		gato.caminar();
+		
+		Humano hum = new Humano(2, 9);
+		
+		hum.caminar();
+	}
+
+}

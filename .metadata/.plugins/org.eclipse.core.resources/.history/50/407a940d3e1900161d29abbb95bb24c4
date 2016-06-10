@@ -1,0 +1,14 @@
+package cl.curso.java.herencia;
+
+public class Gato extends Mamifero{
+
+	private String nombre;
+	
+	public Gato(int cantidadPatas, int mesesGestacion, String nombre)
+	{
+		super(cantidadPatas,mesesGestacion );
+		this.nombre = nombre;
+	}
+	
+	
+}

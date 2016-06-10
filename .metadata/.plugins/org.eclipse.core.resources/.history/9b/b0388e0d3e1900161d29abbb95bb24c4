@@ -1,0 +1,92 @@
+package cl.curso.java.herencia;
+
+/**
+ * @return kevins
+ */
+public class Persona {
+
+	private String nombre;
+	private String rut;
+	private String apellidoPaterno;
+	private String apellidoMaterno;
+	
+	
+	public Persona()
+	{}
+	/**
+	 * @param nombre
+	 * @param rut
+	 * @param apellidoPaterno
+	 * @param apellidoMaterno
+	 */
+	public Persona(String nombre, String rut, String apellidoPaterno, String apellidoMaterno) {
+		super();
+		this.nombre = nombre;
+		this.rut = rut;
+		this.apellidoPaterno = apellidoPaterno;
+		this.apellidoMaterno = apellidoMaterno;
+	}
+	
+	public void irAClases()
+	{
+		System.out.println("Ir a clases");
+	}
+	/**
+	 * @return the nombre
+	 */
+	public String getNombre() {
+		return nombre;
+	}
+	/**
+	 * @param nombre the nombre to set
+	 */
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	/**
+	 * @return the rut
+	 */
+	public String getRut() {
+		return rut;
+	}
+	/**
+	 * @param rut the rut to set
+	 */
+	public void setRut(String rut) {
+		this.rut = rut;
+	}
+	/**
+	 * @return the apellidoPaterno
+	 */
+	public String getApellidoPaterno() {
+		return apellidoPaterno;
+	}
+	/**
+	 * @param apellidoPaterno the apellidoPaterno to set
+	 */
+	public void setApellidoPaterno(String apellidoPaterno) {
+		this.apellidoPaterno = apellidoPaterno;
+	}
+	/**
+	 * @return the apellidoMaterno
+	 */
+	public String getApellidoMaterno() {
+		return apellidoMaterno;
+	}
+	/**
+	 * @param apellidoMaterno the apellidoMaterno to set
+	 */
+	public void setApellidoMaterno(String apellidoMaterno) {
+		this.apellidoMaterno = apellidoMaterno;
+	}
+	/* (non-Javadoc)
+	 * @see java.lang.Object#toString()
+	 */
+	@Override
+	public String toString() {
+		return "Persona\\n nombre = " + nombre + "\\n rut = " + rut + "\\n apellidoPaterno = " + apellidoPaterno
+				+ "\\n apellidoMaterno = " + apellidoMaterno + " ";
+	}
+	
+	
+}

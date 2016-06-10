@@ -1,0 +1,43 @@
+package clases.control.copy;
+
+import java.util.Scanner;
+
+
+
+public class ProgramaArticulo {
+
+	public static void main(String[] args)
+	{
+		
+		Scanner sc = new Scanner(System.in);
+		
+		Articulo arti = new Articulo("toalla", 10000);
+		String opcion = "";
+		
+		
+		do {
+			System.out.println("Opcion 1: precio al detalle");
+			System.out.println("Opcion 2: precio al mayor");
+			System.out.println("Opcion 3: imprimir objeto");
+			System.out.println("Opcion 4: salir.");
+			opcion = sc.nextLine();
+			switch (opcion) {
+			case "1":
+				System.out.println(arti.precioAlDetalle());
+				
+				break;
+			case "2":
+				System.out.println(arti.precioAlMayor());
+				break;
+			case "3":
+				System.out.println(arti.toString());
+				break;
+			case "4":
+				System.exit(0);
+			default:
+				break;
+			}
+			
+		} while (!opcion.equals("4"));
+	}
+}

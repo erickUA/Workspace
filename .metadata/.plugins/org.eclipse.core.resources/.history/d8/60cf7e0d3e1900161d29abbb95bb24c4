@@ -1,0 +1,12 @@
+package clases.intefaces.copy;
+
+public interface Pagable {
+
+	/**
+	 * 
+	 * @param monto
+	 */
+	public void pagar(int monto);
+	
+	public void pagarNeto(int monto);
+}

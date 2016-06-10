@@ -1,0 +1,62 @@
+package cl.curso.java.herencia;
+
+/**
+ * 
+ * @author kevins
+ *@see cl.curso.java.herencia.Persona
+ *
+ */
+
+public class Profesor extends Persona{
+
+	private String[] cursos;
+
+	/**
+	 * @return the cursos
+	 */
+	public String[] getCursos() {
+		return cursos;
+	}
+
+
+	/**
+	 * @param cursos the cursos to set
+	 */
+	public void setCursos(String[] cursos) {
+		this.cursos = cursos;
+	}
+	
+	/**
+	 * @param cursos
+	 */
+	public Profesor(String[] cursos) {
+		super();
+		this.cursos = cursos;
+	}
+
+	public Profesor(String nombre, String rut, String apellidoPaterno, String apellidoMaterno, String[] cursos) {
+		super(nombre, rut, apellidoPaterno, apellidoMaterno);
+		this.cursos = cursos;
+	}
+
+
+	/* (non-Javadoc)
+	 * @see java.lang.Object#toString()
+	 */
+	@Override
+	public String toString() {
+		String aux = "Persona\n nombre = " + getNombre() + "\n rut = " + getRut() + "\n apellidoPaterno = " + getApellidoPaterno()
+		+ "\n apellidoMaterno = " + getApellidoMaterno();
+		for (int i = 0; i < cursos.length; i++) {
+		
+			aux = aux+"\nCurso: "+cursos[i]+" ";
+		}
+		
+		return aux;
+	}
+
+
+	
+	
+	
+}

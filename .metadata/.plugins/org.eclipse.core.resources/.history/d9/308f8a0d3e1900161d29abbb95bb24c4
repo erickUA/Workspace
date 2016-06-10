@@ -1,0 +1,22 @@
+package cl.curso.java.herencia;
+
+public class ProgramaProfesor {
+
+	public static void main(String[] args)
+	{
+		String[] cursos = {"java", "JEE"};
+		Profesor profe = new Profesor("Kevin", "19188374-8", "Zambrano", "Torres", cursos);
+		
+		System.out.println(profe.getNombre());
+		
+		int[] notas = {70, 40};
+		Alumno alumno = new Alumno("Juan", "18052987-9", "Maldonado", "Torres", notas);
+		
+		
+		profe.irAClases();
+		alumno.irAClases();
+		
+		System.out.println(profe.toString());
+	}
+}
+

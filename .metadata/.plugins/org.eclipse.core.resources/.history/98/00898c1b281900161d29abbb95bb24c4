@@ -1,0 +1,117 @@
+package cl.curso.java.control;
+
+
+public class Libro {
+
+	private String titulo;
+	private String autor;
+	private int numeroEjemplares;
+	private int ejemplaresPrestados;
+	
+	
+	//Constructor sin parametros
+	public Libro()
+	{
+		this.titulo = " ";
+		this.autor = " ";
+		this.numeroEjemplares = 0;
+		this.ejemplaresPrestados = 0;
+	}
+	
+	//Constructor con parametros
+	public Libro(String titulo, String autor, int numeroEjemplares, int ejemplaresPrestados)
+	{
+		this.titulo = titulo;
+		this.autor = autor;
+		this.numeroEjemplares = numeroEjemplares;
+		this.ejemplaresPrestados = ejemplaresPrestados;
+	}
+
+	/**
+	 * @return the titulo
+	 */
+	public String getTitulo() {
+		return titulo;
+	}
+
+	/**
+	 * @param titulo the titulo to set
+	 */
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
+	}
+
+	/**
+	 * @return the autor
+	 */
+	public String getAutor() {
+		return autor;
+	}
+
+	/**
+	 * @param autor the autor to set
+	 */
+	public void setAutor(String autor) {
+		this.autor = autor;
+	}
+
+	/**
+	 * @return the numeroEjemplares
+	 */
+	public int getNumeroEjemplares() {
+		return numeroEjemplares - ejemplaresPrestados;
+	}
+
+	/**
+	 * @param numeroEjemplares the numeroEjemplares to set
+	 */
+	public void setNumeroEjemplares(int numeroEjemplares) {
+		this.numeroEjemplares = numeroEjemplares;
+	}
+
+	/**
+	 * @return the ejemplaresPrestados
+	 */
+	public int getEjemplaresPrestados() {
+		return ejemplaresPrestados;
+	}
+
+	/**
+	 * @param ejemplaresPrestados the ejemplaresPrestados to set
+	 */
+	public void setEjemplaresPrestados(int ejemplaresPrestados) {
+		this.ejemplaresPrestados = ejemplaresPrestados;
+	}
+	
+	public int prestarLibro()
+	{
+		
+		
+		this.numeroEjemplares = (this.numeroEjemplares +this.ejemplaresPrestados)-this.ejemplaresPrestados;
+		this.ejemplaresPrestados = this.ejemplaresPrestados+this.ejemplaresPrestados;
+		
+		
+		return this.numeroEjemplares;
+	}
+	
+	public int devolverLibro()
+	{
+		
+	
+			
+			this.numeroEjemplares = (this.numeroEjemplares -this.ejemplaresPrestados)+this.ejemplaresPrestados;
+			this.ejemplaresPrestados = 0;
+		
+		
+		return this.numeroEjemplares;
+	}
+	
+	public String toString()
+	{
+		return "\nLibro"
+			+"\nTitulo: "+getTitulo()
+			+"\nAutor: "+getAutor()
+			+"\nNumero de ejemplares: "+getNumeroEjemplares()
+			+"\nEjemplares prestados: "+getEjemplaresPrestados();
+	}
+}

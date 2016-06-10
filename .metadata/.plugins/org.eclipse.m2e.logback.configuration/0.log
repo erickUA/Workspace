@@ -1,0 +1,295 @@
+2016-06-08 10:05:37,773 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2016-06-08 10:05:38,228 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2016-06-08 10:05:38,545 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2016-06-08 10:05:39,063 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2016-06-08 10:12:29,128 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2016-06-08 10:12:30,520 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2016-06-08 10:12:30,610 [pool-2-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///Users/erick/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2016-06-08 10:12:30,719 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/pom.xml
+2016-06-08 10:12:32,136 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2016-06-08 10:12:34,432 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2016-06-08 10:12:35,123 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2016-06-08 10:12:40,042 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2016-06-08 10:12:40,352 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2016-06-08 10:12:42,199 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.jar
+2016-06-08 10:12:42,452 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2016-06-08 10:12:44,083 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2016-06-08 10:12:44,395 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-06-08 10:12:45,802 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-06-08 10:12:46,290 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2016-06-08 10:12:51,501 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2016-06-08 10:12:52,140 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2016-06-08 10:13:00,376 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2016-06-08 10:13:00,706 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2016-06-08 10:13:01,464 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/2.5.1/maven-compiler-plugin-2.5.1.pom
+2016-06-08 10:13:02,970 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2016-06-08 10:13:03,634 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.pom
+2016-06-08 10:13:03,888 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2016-06-08 10:13:04,423 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/1.9.1/plexus-compiler-1.9.1.pom
+2016-06-08 10:13:04,833 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2016-06-08 10:13:05,548 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.pom
+2016-06-08 10:13:05,796 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2016-06-08 10:13:06,314 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.pom
+2016-06-08 10:13:06,576 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2016-06-08 10:13:07,328 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/1.9.1/plexus-compilers-1.9.1.pom
+2016-06-08 10:13:07,823 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2016-06-08 10:13:09,196 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/1.9.1/plexus-compiler-api-1.9.1.jar
+2016-06-08 10:13:09,823 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2016-06-08 10:13:10,381 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/1.9.1/plexus-compiler-manager-1.9.1.jar
+2016-06-08 10:13:10,769 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2016-06-08 10:13:11,329 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/1.9.1/plexus-compiler-javac-1.9.1.jar
+2016-06-08 10:13:11,765 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2016-06-08 10:13:12,244 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:login-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/pom.xml.
+2016-06-08 10:13:12,927 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2016-06-08 10:13:13,349 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2016-06-08 10:13:14,044 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2016-06-08 10:13:14,515 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.pom
+2016-06-08 10:13:15,119 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2016-06-08 10:13:16,245 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.1/maven-filtering-1.1.jar
+2016-06-08 10:13:16,430 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:login-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/pom.xml.
+2016-06-08 10:13:16,514 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /login-app/src/main/java
+2016-06-08 10:13:16,625 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /login-app/src/test/java
+2016-06-08 10:13:18,603 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 47 sec
+2016-06-08 10:13:21,822 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:login-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/pom.xml.
+2016-06-08 10:13:21,946 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:13:21,946 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:13:21,948 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:13:21,949 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:42:14,573 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:login-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/pom.xml.
+2016-06-08 10:42:16,645 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.pom
+2016-06-08 10:42:17,151 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.pom
+2016-06-08 10:42:17,396 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar
+2016-06-08 10:42:27,172 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar
+2016-06-08 10:42:27,469 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:42:27,469 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:42:27,471 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:42:27,471 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:42:28,681 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:42:28,681 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:42:28,683 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:42:28,683 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:46:58,412 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.curso.java:login-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/pom.xml.
+2016-06-08 10:46:58,664 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/sarxos/webcam-capture/0.3.10/webcam-capture-0.3.10.pom
+2016-06-08 10:46:59,177 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/sarxos/webcam-capture/0.3.10/webcam-capture-0.3.10.pom
+2016-06-08 10:46:59,395 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/sarxos/webcam-capture-parent/0.3.10/webcam-capture-parent-0.3.10.pom
+2016-06-08 10:46:59,995 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/sarxos/webcam-capture-parent/0.3.10/webcam-capture-parent-0.3.10.pom
+2016-06-08 10:47:00,239 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/nativelibs4java/bridj/0.6.2/bridj-0.6.2.pom
+2016-06-08 10:47:00,635 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/nativelibs4java/bridj/0.6.2/bridj-0.6.2.pom
+2016-06-08 10:47:00,830 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/nativelibs4java/nativelibs4java-parent/1.8/nativelibs4java-parent-1.8.pom
+2016-06-08 10:47:01,253 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/nativelibs4java/nativelibs4java-parent/1.8/nativelibs4java-parent-1.8.pom
+2016-06-08 10:47:01,467 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.pom
+2016-06-08 10:47:01,843 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.pom
+2016-06-08 10:47:02,037 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.2/slf4j-parent-1.7.2.pom
+2016-06-08 10:47:02,487 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.2/slf4j-parent-1.7.2.pom
+2016-06-08 10:47:02,691 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/github/sarxos/webcam-capture/0.3.10/webcam-capture-0.3.10.jar
+2016-06-08 10:47:05,312 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/github/sarxos/webcam-capture/0.3.10/webcam-capture-0.3.10.jar
+2016-06-08 10:47:05,520 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/nativelibs4java/bridj/0.6.2/bridj-0.6.2.jar
+2016-06-08 10:47:19,239 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/nativelibs4java/bridj/0.6.2/bridj-0.6.2.jar
+2016-06-08 10:47:19,439 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+2016-06-08 10:47:19,857 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+2016-06-08 10:47:19,990 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:47:19,990 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:47:19,994 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:47:19,994 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:47:21,154 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:47:21,154 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:47:21,156 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:47:21,156 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:56:39,845 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:56:39,866 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:56:39,869 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:56:39,869 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:57:24,770 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:57:24,792 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:57:24,793 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:57:24,794 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 10:59:56,865 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:59:56,865 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 10:59:56,867 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 10:59:56,868 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 11:01:12,961 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 11:01:12,987 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 11:01:12,989 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 11:01:12,989 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 11:03:17,101 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 11:03:17,130 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 11:03:17,133 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 11:03:17,133 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 12:20:44,931 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 12:20:44,947 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 12:20:44,949 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 12:20:44,949 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 12:23:31,314 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 12:23:31,327 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 12:23:31,329 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 12:23:31,329 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 12:27:47,460 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 12:27:47,469 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 12:27:47,471 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 12:27:47,471 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:08:42,928 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:08:42,950 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:08:42,951 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:08:42,952 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:11,059 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:11,088 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:11,090 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:11,090 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:21,306 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:21,307 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:21,309 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:21,309 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:25,022 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:25,023 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:25,024 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:25,024 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:31,327 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:31,327 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:31,328 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:31,329 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:37,304 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:37,304 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:37,306 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:37,306 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:51,032 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:51,032 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:51,034 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:51,034 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:09:56,996 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:56,997 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:09:57,000 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:09:57,000 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:10:03,670 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:10:03,716 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:10:03,717 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:10:03,718 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:15:33,188 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:15:33,207 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:15:33,208 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:15:33,208 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:15:53,733 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:15:53,733 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:15:53,734 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:15:53,735 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:19:36,614 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:19:36,626 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:19:36,627 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:19:36,628 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:20:43,803 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:20:43,831 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:20:43,832 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:20:43,833 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:22:58,558 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:22:58,575 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:22:58,576 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:22:58,576 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:23:30,626 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:23:30,645 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:23:30,646 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:23:30,646 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 13:25:36,782 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:25:36,810 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 13:25:36,813 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 13:25:36,813 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-08 21:09:19,728 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 21:09:19,758 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-08 21:09:19,760 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-08 21:09:19,760 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-09 10:11:12,928 [Worker-203] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/pom.xml
+2016-06-09 10:11:13,614 [Worker-203] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:singleton-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/pom.xml.
+2016-06-09 10:11:13,899 [Worker-203] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /singleton-app/src/main/java
+2016-06-09 10:11:13,921 [Worker-203] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /singleton-app/src/test/java
+2016-06-09 10:11:14,450 [Worker-203] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-06-09 10:11:15,642 [Worker-201] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:singleton-app:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/pom.xml.
+2016-06-09 10:11:16,287 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 10:11:16,287 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/main/resources
+2016-06-09 10:11:16,289 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 10:11:16,289 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/test/resources
+2016-06-09 10:18:23,889 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 10:18:23,903 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/main/resources
+2016-06-09 10:18:23,904 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 10:18:23,905 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/test/resources
+2016-06-09 11:06:20,480 [Worker-236] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/pom.xml
+2016-06-09 11:06:21,004 [Worker-236] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:abstract-factory:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/pom.xml.
+2016-06-09 11:06:21,231 [Worker-236] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstract-factory/src/main/java
+2016-06-09 11:06:21,263 [Worker-236] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /abstract-factory/src/test/java
+2016-06-09 11:06:21,523 [Worker-236] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-06-09 11:06:22,160 [Worker-236] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:abstract-factory:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/pom.xml.
+2016-06-09 11:06:22,217 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:22,218 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:06:22,219 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:22,219 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:06:22,634 [Worker-237] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:abstract-factory:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/pom.xml.
+2016-06-09 11:06:23,386 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:23,386 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:06:23,388 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:23,388 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:06:49,192 [Worker-238] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:abstract-factory:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/pom.xml.
+2016-06-09 11:06:49,290 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:49,290 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:06:49,292 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:49,292 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:06:49,466 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:49,466 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:06:49,467 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:06:49,467 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:13:18,422 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:13:18,448 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:13:18,450 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:13:18,450 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:14:50,158 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:14:50,159 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:14:50,160 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:14:50,160 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:14:56,455 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:14:56,455 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:14:56,457 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:14:56,457 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:15:18,365 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:15:18,365 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:15:18,366 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:15:18,366 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:15:51,529 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:15:51,549 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:15:51,550 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:15:51,550 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:15:58,940 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:15:58,940 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:15:58,941 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:15:58,942 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:16:30,304 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:16:30,330 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:16:30,331 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:16:30,331 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:18:36,334 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:18:36,334 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:18:36,338 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:18:36,338 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:21:51,505 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:21:51,522 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:21:51,523 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:21:51,523 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:22:16,596 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:22:16,596 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:22:16,597 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:22:16,597 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:27:19,992 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:27:20,014 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:27:20,015 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:27:20,015 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:35:20,548 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:35:20,564 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:35:20,565 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:35:20,566 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-09 11:38:15,475 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:38:15,476 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-09 11:38:15,476 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 11:38:15,476 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-10 09:44:05,705 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 09:44:05,721 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/main/resources
+2016-06-10 09:44:05,723 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 09:44:05,723 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/test/resources
+2016-06-10 09:44:10,434 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 09:44:10,434 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/main/resources
+2016-06-10 09:44:10,436 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 09:44:10,436 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/test/resources

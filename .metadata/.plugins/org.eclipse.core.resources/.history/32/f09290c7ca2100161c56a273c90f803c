@@ -1,0 +1,14 @@
+package ejemplosThread.ejemplos.reloj;
+
+public class Programa {
+
+	public static void main(String[] args) {
+		
+		Reloj r1 = new Reloj(0,0,0);
+		Timer t1 = new Timer(r1);
+		
+		t1.start();
+
+	}
+
+}

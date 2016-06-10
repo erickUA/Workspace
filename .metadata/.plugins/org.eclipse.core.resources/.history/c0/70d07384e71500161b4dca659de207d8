@@ -1,0 +1,13 @@
+package cl.curso.java.control;
+
+public class Bibloteca {
+	private String nombre;
+	private String autor;
+	private int numeroEjemplares;
+    private int numeroEjemplaresEmprestados;
+    
+    public Biblioteca(){
+    	
+    }
+
+}

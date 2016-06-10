@@ -1,0 +1,66 @@
+package cl.curso.java.control;
+
+public class Articulo {
+
+	private String nombre;
+	private double costoBase;
+	
+	//Constructor sin parametros
+	public Articulo()
+	{
+		this.nombre = " ";
+		this.costoBase = 0;
+	}
+	
+	//Constructor con parametros
+	public Articulo(String nombre, double costoBase)
+	{
+		this.nombre = nombre;
+		this.costoBase =costoBase;
+	}
+
+	/**
+	 * @return the nombre
+	 */
+	public String getNombre() {
+		return nombre;
+	}
+
+	/**
+	 * @param nombre the nombre to set
+	 */
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	/**
+	 * @return the costoBase
+	 */
+	public double getCostoBase() {
+		return costoBase;
+	}
+
+	/**
+	 * @param costoBase the costoBase to set
+	 */
+	public void setCostoBase(double costoBase) {
+		this.costoBase = costoBase;
+	}
+	
+	public double precioAlDetalle()
+	{
+		return this.costoBase+(this.costoBase*30)/100;
+	}
+	
+	public double precioAlMayor()
+	{
+		return this.costoBase+(this.costoBase*15)/100;
+	}
+	
+	public String toString()
+	{
+		return "\nArticulo"
+			+"\nNombre del articulo: "+getNombre()
+			+"\nCosto del articulo: "+getCostoBase();
+	}
+}

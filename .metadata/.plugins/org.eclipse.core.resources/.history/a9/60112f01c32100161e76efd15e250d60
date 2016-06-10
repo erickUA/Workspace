@@ -1,0 +1,5 @@
+package ejemplosThread.ejemplos.reloj;
+
+public class Reloj {
+
+}

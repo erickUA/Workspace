@@ -1,0 +1,49 @@
+package cl.curso.java.herencia;
+
+public class Mamifero {
+
+	private int cantidadPatas;
+	private int mesesGestacion;
+	
+	public Mamifero()
+	{
+	   
+	}
+	
+	public Mamifero(int cantidadPatas, int mesesGestacion)
+	{
+		this.cantidadPatas = cantidadPatas;
+		this.mesesGestacion = mesesGestacion;
+	}
+	
+	public void caminar()
+	{
+		System.out.println("camino en "+ this.cantidadPatas+ " patas");
+	}
+	/**
+	 * @return the cantidadPatas
+	 */
+	public int getCantidadPatas() {
+		return cantidadPatas;
+	}
+	/**
+	 * @param cantidadPatas the cantidadPatas to set
+	 */
+	public void setCantidadPatas(int cantidadPatas) {
+		this.cantidadPatas = cantidadPatas;
+	}
+	/**
+	 * @return the mesesGestacion
+	 */
+	public int getMesesGestacion() {
+		return mesesGestacion;
+	}
+	/**
+	 * @param mesesGestacion the mesesGestacion to set
+	 */
+	public void setMesesGestacion(int mesesGestacion) {
+		this.mesesGestacion = mesesGestacion;
+	}
+	
+	
+}
