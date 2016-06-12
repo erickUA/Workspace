@@ -54,6 +54,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="cl.java.curso.builder"/>
 			<item value="cl.java.curso.abstract_factory"/>
 			<item value="cl.java.curso.singleton_app"/>
 			<item value="cl.curso.java.login_app"/>
@@ -63,6 +64,7 @@
 			<item value="cl.curso.java"/>
 		</list>
 		<list key="artifactId">
+			<item value="builder"/>
 			<item value="abstract-factory"/>
 			<item value="singleton-app"/>
 			<item value="login-app"/>

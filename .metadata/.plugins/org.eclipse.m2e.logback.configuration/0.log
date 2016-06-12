@@ -293,3 +293,67 @@
 2016-06-10 09:44:10,434 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/main/resources
 2016-06-10 09:44:10,436 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-10 09:44:10,436 [Worker-437] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/test/resources
+2016-06-10 10:58:29,849 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/pom.xml
+2016-06-10 10:58:36,183 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:builder:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/pom.xml.
+2016-06-10 10:58:41,484 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:builder:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/pom.xml.
+2016-06-10 10:58:41,860 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /builder/src/main/java
+2016-06-10 10:58:41,906 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /builder/src/test/java
+2016-06-10 10:58:43,041 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2016-06-10 10:58:46,363 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:builder:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/pom.xml.
+2016-06-10 10:58:46,564 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 10:58:46,564 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 10:58:46,567 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 10:58:46,567 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-10 10:58:58,543 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cl.java.curso:builder:0.0.1-SNAPSHOT @ /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/pom.xml.
+2016-06-10 10:58:58,588 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 10:58:58,589 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 10:58:58,591 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 10:58:58,591 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-10 11:04:52,664 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:04:52,689 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 11:04:52,690 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:04:52,691 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-10 11:09:08,084 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:09:08,108 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 11:09:08,110 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:09:08,110 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-10 11:10:06,633 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:10:06,633 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 11:10:06,634 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:10:06,635 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-10 11:12:30,330 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:12:30,357 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 11:12:30,360 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:12:30,360 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-10 11:22:44,738 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:22:44,772 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-10 11:22:44,774 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-10 11:22:44,774 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-12 13:38:33,432 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 13:38:33,454 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-12 13:38:33,457 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 13:38:33,458 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-12 13:38:36,813 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 13:38:36,813 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-12 13:38:36,815 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 13:38:36,815 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-12 13:38:43,032 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 13:38:43,066 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-12 13:38:43,069 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 13:38:43,070 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-12 16:52:42,566 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:42,622 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/main/resources
+2016-06-12 16:52:42,626 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:42,626 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/abstract-factory/src/test/resources
+2016-06-12 16:52:42,727 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:42,727 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/main/resources
+2016-06-12 16:52:42,730 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:42,731 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/builder/src/test/resources
+2016-06-12 16:52:43,183 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:43,184 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/main/resources
+2016-06-12 16:52:43,186 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:43,186 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/login-app/src/test/resources
+2016-06-12 16:52:43,257 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:43,258 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/main/resources
+2016-06-12 16:52:43,260 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-12 16:52:43,260 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/erick/Desarrollo/workspaces/concentrador-bfal/singleton-app/src/test/resources

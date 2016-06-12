@@ -56,11 +56,11 @@
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
 		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/erick/Desktop/CURSO JAVA/guias/EJERCICIOS JAVA (1)/guia11-1"/>
 			<item value="/Users/erick/Downloads/Archivo_comprimido"/>
 			<item value="/Users/erick/Downloads/guia12/ejercicio1"/>
 			<item value="/Users/erick/Downloads/carrera"/>
 			<item value="/Users/erick/Desktop/guia9/ejerciciosComposicion/ejercicio1"/>
-			<item value="/Users/erick/Desktop/guia9/ejercicio6"/>
 		</list>
 	</section>
 </section>
